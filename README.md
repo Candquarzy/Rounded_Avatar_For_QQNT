@@ -1,0 +1,2 @@
+# Rounded_Avatar_for_QQNT
+在QQNT中圆角化用户头像，使用LiteLoaderQQNT的Transitio插件实现
